@@ -13,5 +13,5 @@
 - `Pillow`
 - `pytesseract` (for image extraction) 
 
-### Installation To install the project locally, perform the following steps: 1. Clone the repository: ```bash git clone https://github.com/DJ-LP/CRYPTO.git
+### Installation To install the project locally, perform the following steps: 1. Clone the repository: ```bash git clone https://github.com/DJ-LP/Crypto.git
 
